@@ -5,7 +5,9 @@ This GitHub repository mainly consolidates my work on the text tracing task.
 ---
 
 这个仓库主要汇总了我在文本溯源任务上的工作
+
 由于以前项目的原因，尝试了许多不同方式，检测一段文本是哪个中文大模型生成的
+
 涉及大模型：
 
 - Baichuan
@@ -23,9 +25,9 @@ This GitHub repository mainly consolidates my work on the text tracing task.
 
 结果总结：
 
-- LLMDet，五分类78.83%
-- 微调Roberta，三分类90.04%，五分类87.93%
-- SGDclassifier，真实商用文本三分类81.29%
+- LLMDet 三分类73.18%
+- 微调Roberta 五分类87.93%
+- SGDclassifier 真实商用文本三分类81.29%
 
 总结：
 
