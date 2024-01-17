@@ -9,3 +9,5 @@
 - 三个SGDClassifier集成学习
 
 - 调了一些参数，整体准确率达到81.29%
+
+<img title="" src="../img/混淆矩阵-SGD-8129.png" alt="混淆矩阵-SGD-8129.png" data-align="center">
