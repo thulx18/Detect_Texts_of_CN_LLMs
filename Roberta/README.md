@@ -2,10 +2,11 @@
 
 三分类4个epoch：
 
-![混淆矩阵-roberta-9004.png](..\img\混淆矩阵-roberta-9004.png)
+<img title="" src="../img/混淆矩阵-roberta-9004.png" alt="混淆矩阵-roberta-9004" data-align="center">
 
 
 
 五分类30个epoch：
 
-![混淆矩阵-roberta-8793.png](..\img\混淆矩阵-roberta-8793.png)
+<img title="" src="../img/混淆矩阵-roberta-8793.png" alt="混淆矩阵-roberta-8793.png" data-align="center">
+
